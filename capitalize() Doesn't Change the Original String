@@ -1,0 +1,9 @@
+sentence = "i am learning PYTHON."
+
+# capitalize the first character 
+capitalized_string = sentence.capitalize()
+
+# the sentence string is not modified 
+print('Before capitalize():', sentence)
+
+print('After capitalize():', capitalized_string)
