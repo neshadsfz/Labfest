@@ -1,0 +1,6 @@
+text = "Python is awesome"
+
+# returns padded string by adding whitespace up to length 24
+new_text = text.center(24)
+
+print("Centered String: ", new_text)
